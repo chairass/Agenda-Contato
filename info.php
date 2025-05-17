@@ -1,3 +1,4 @@
 <?php
-phpinfo();
+$nome = 'Chaira';
+print_r($nome);
 ?>
